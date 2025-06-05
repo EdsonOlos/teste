@@ -1,0 +1,1108 @@
+---
+Abertura de chamados: 
+Abertura - Só requisitantes: 
+'Se precisar, escale para:': 
+Central de atendimento: 
+'Fone escalação:': 
+11 2281-1650: 
+Telefone de emergência do solicitante: 
+'"Nível de Gravidade"': 
+Nível de Gravidade: 
+NÍVEL 1: 
+NÍVEL 2: 
+NÍVEL 3: 
+NÍVEL 4: 
+Abertura - Só Agentes: 
+Ticket Filho?: 
+Sim: 
+Não: 
+Abertura - Agentes e Requisitantes: 
+Tipo de Contato: 
+Reportar um problema: 
+Fazer uma solicitação: 
+Tirar uma dúvida: 
+A sua dúvida é em qual produto/feature?: 
+Discador/Operação humana: 
+Softphone Olos: 
+Chatbot/Webchat: 
+'URA ': 
+Telecom/Canais: 
+Agente Virtual: 
+WAY: 
+Email: 
+Fast Flow: 
+AD Contact: 
+Eaglle: 
+Customização em geral: 
+SMS: 
+DUMP/Relatório padrão Olos: 
+DUMP/Relatório customizado: 
+Toolset: 
+OWI (Olos Web Interact): 
+Portal Olos Support Place: 
+Outros: 
+Esse problema está te impedindo de trabalhar? A operação/produto está indisponível?: 
+Sim, está tudo parado: 
+Está parcialmente parado: 
+Qual o tipo de solicitação?: 
+Agenda com o time de Telecom: 
+Treinamento Olos: 
+Outras solicitações: 
+Campos Novos - Reformulação Freshservice: 
+Em qual produto/feature está o problema?: 
+Qual é a sua dúvida?: 
+Qual a sua solicitação?: 
+No que podemos te ajudar?: 
+'Cliente escalou o ticket do Portal:': 
+Precisa de escalação?: 
+Não tenho evidências: 
+Major incident type: 
+Full outage: 
+Partial outage: 
+Performance degradation: 
+Business impact: 
+Impacted locations: 
+No. of customers impacted: 
+Campos Padrão: 
+Edição - Só Agentes: 
+Tipos de SLA: 
+SLA Padrão: 
+SLA Atento BR Cloud: 
+SLA Nova Quest: 
+Nível 1 - Down: 
+Nível 1 - Crítico: 
+Nível 2: 
+Nível 3: 
+Nível 4: 
+'SLA de até:': 
+1 hora: 
+2 horas: 
+4 horas: 
+8 horas: 
+24 horas: 
+48 horas: 
+20 dias úteis: 
+7 dias úteis: 
+30 dias úteis: 
+'Costumamos resolver em até:': 
+4 dias úteis: 
+8 dias úteis: 
+10 dias úteis: 
+Chamado Escalado: 
+Motivo da Escalação: 
+Cliente pediu prioridade/urgência: 
+Chamado é para ampliação de licenças: 
+Chamado encerrado sem autorização do cliente: 
+Demora da resolução do problema: 
+Falta de informação no chamado: 
+Falta de interação com o cliente: 
+Politico, problemas de alinhamento de expectativas do cliente: 
+Problema recorrente: 
+Sem informação objetiva do problema: 
+Crítico ou System Down: 
+Violação do SLA atendimento inicial: 
+Violação do SLA de resolução: 
+Violação do SLA de restauração: 
+Violação do SLA Relatório causa raiz: 
+Quem escalou?: 
+Adalberto Parreira: 
+Adriana Porto Silva: 
+Alessandra  De Arruda Aguiar Bonini: 
+Alessandro Damasio: 
+Alex Agena: 
+Alexandre Bonini  Filho: 
+Alexandre da Silva Bueno: 
+Alexandre Gonçalves: 
+Alexandre Martins Vargas: 
+Aline Silva Ribeiro: 
+Allan Azevedo: 
+Amanda Cristina Gonçalves Nascimento: 
+Amanda Merlo da Silva: 
+Amanda Ribeiro Rabelo: 
+Amanda Torri de Carvalho: 
+Amon Pereira Da Silva Silva: 
+Ana Flávia Arjona: 
+Ana Paula Godoy: 
+Anderson De Oliveira   Freitas: 
+Anderson de Souza  Alves: 
+Anderson Reis Fonseca: 
+Andre Godoy: 
+André Laczo: 
+Andreas Borges  Da Silva: 
+Antonio Ribeiro: 
+Aratielia Florentino Da Costa: 
+Arianne de Araujo: 
+Arnaldo da Costa e Castro Neto: 
+Arnaldo Rosa Neto: 
+'Artur  Felipe Girão ': 
+Artur Mortari: 
+Aryane Miranda: 
+Brendon Bruno Dias de Carvalho: 
+Bruna Fernandes Sandrini: 
+Bruno Henrique Pereira Olegario  Da Silva: 
+Bruno Linhares dos Santos: 
+Bruno Rabaquim Batista: 
+Bruno Silva Lopes De Abreu: 
+Caio Cesar De Almeida  Gomes: 
+Caio Gagliardi  Matos: 
+Caio Henrique Benhame Ferreira: 
+Caio Vinicius Filadoro: 
+Caique Brito  de Almeida: 
+Caique Bulhões Machado: 
+Camila Santana: 
+Carla Lombardi Silva: 
+Caroline Alves de Barros: 
+CELSO CEZAR: 
+Claudinei Veloso  Pereira: 
+Clone Ticket: 
+Cynthia Domaneschi: 
+Daniel de Oliveira Rui da Cruz: 
+Daniel Eusébio: 
+Daniel Munhoz: 
+Daniel Oliveira Ferreira: 
+Daniel Tassoni: 
+Danieli Alves  da Silva: 
+Danielly Rodrigues  Barrionuevo: 
+Danillo Aparecido Ferreira: 
+Danillo Goncalves  Nogueira: 
+DAVERSON DA SILVA MOTTA: 
+Davi Vincenzo Merotto: 
+Debora Martins: 
+Denis Cerqueira Da Silva: 
+Diego Magno Bezerra: 
+Diego Ricardo  de Morais: 
+Diogo Camacho  Nonato: 
+Donizete Maria Costa: 
+Douglas Apollo Felipe: 
+Douglas Futata  Okumura: 
+Douglas Silva: 
+Edson Ferreira da Silva Júnior: 
+Edson Thomaz: 
+Eduardo Amaro  Avila: 
+Eduardo Carvalho Rodrigues Bastos: 
+Eduardo Chinellato: 
+Eduardo Franchi  Bernardino: 
+Eduardo Molina: 
+Eliene Cristina  Dos Santos: 
+Elizangela Ribeiro  Rodrigues: 
+Emerson Carmo: 
+Erica Paulo  De Almeida: 
+Erik Enzo Okuhama Ueda: 
+Evanilda Holanda Augusto  Silva: 
+Fábio Machado Siqueira: 
+Fabio Prado da Silva: 
+Fabio Winckler: 
+Fabricio de Souza Barbosa: 
+Fabrizio Thadeu Sesztak Simões: 
+Felipe Alves Farias  Santos: 
+Fernanda Cordeiro: 
+Fernanda Graciano Goes: 
+Francisco Eduardo Vitor Cesar: 
+Gabriel Da Rocha Barca: 
+Gabriel Pombo: 
+Gabriel Trevisan: 
+Gabriela Araujo Soares  Da Silva: 
+Gabrielle  Andrade: 
+Giedry Marlliny Fialho Soares  Saraiva: 
+Giovanna Maria  Beraldo: 
+Giovanni  Silva: 
+Giovanni Sabino: 
+Gislaine Braga De Oliveira Silva: 
+Glauco De Sales: 
+Guilherme Augusto Santiago  de Oliveira: 
+Hanna Carolina Oliveira Santiago: 
+Hayane Barbosa Santos  da Silva: 
+Hélio Fonseca: 
+Hidelbrando José Baliero Ramos: 
+Humoata Gameiro: 
+Icaro Dantas: 
+Igor da Silva  Ferreira: 
+Igor Vinicius da Cunha: 
+Ingrid Santos: 
+Isabella Furlanetto: 
+Ivan  Mendes Mendes Jesus: 
+Izabel Oliveira: 
+Jean Carlos De Menezes Zamoner: 
+Jefferson Felipe Costa Silva: 
+Jeovane  Maciel: 
+Jessica Alves: 
+Jéssica Aparecida Santos Nascimento: 
+Jéssica Catarine Oliveira  Pereira: 
+João Amilcar Saldanha  dos Santos: 
+Joao Vianez De Souza: 
+John William da Silva Inácio: 
+Jonathan Mendes: 
+Jose Fabiano  Lourenco: 
+Juan Daniel Velasco Merchan: 
+Julian Andres Garcia Saenz: 
+Juliana Pinheiro de Almeida: 
+Juliana Santos: 
+Julio Cesar da Silva  Barboza: 
+Julio Marchi Neto: 
+Julio Rodrigo de Oliveira Pina Silva: 
+Jurídico -  Olos: 
+Kalebe Yuta Santana Osanai: 
+Keven Souza: 
+Kiko Carvalho: 
+Laionel Bossolani Alves Alves: 
+Larissa Almeida  Neres: 
+Larissa Freire Silva: 
+Larissa Varotti: 
+Leila Soares: 
+Leonardo Haidamus: 
+Leticia Folco de Almeida: 
+Leticia Mayumi  De Menezes: 
+Lilian Toledo: 
+Lívia de Souza Grandchamp: 
+Luan Vansan Cardoso  da Silveira: 
+Luana Almeida: 
+Lucas Akihiro: 
+Lucas Castro Henrique: 
+Lucas Dos Santos: 
+Luciana Cristina Dentello: 
+Luiz Carlos Pereira  Da Silva: 
+Luiz Costa: 
+Luiz Fellipe Amorim Melo: 
+Luiz Henrique Pires de Godoy: 
+Mairon Alves Da Conceição: 
+Marcelo  Montilha: 
+Marcelo Henrique  Nascimento: 
+Marcelo Rizzetto: 
+Marcio  Henrique Chicuta De Araujo Cintra: 
+Marcio Cezar: 
+Marco  Assanuma: 
+Marcos Alexandre Mitsuo Yoshida: 
+Marcos Lourenço da Cunha: 
+Marcos Vinicius dos Santos  Pantaleão: 
+Marcus Pinatto: 
+Maria Araceli Miranda: 
+Mariana Bortolotto Yanaguizawa: 
+Marina Paiva Cavalcanti: 
+Mateus Da Rocha  Araujo: 
+Matheus Flores  Medeiros: 
+Matheus Henrique Azevedo de Santana: 
+Maurício Neworal: 
+Mayara da Silva Brasil: 
+Monique Motta: 
+Nanci Santumauro: 
+Newton Miura: 
+Nicholas Alvarus Serrano: 
+Nickolas Lucas Conceição e Silva: 
+Nome: 
+Paulo  Roncada: 
+Paulo Cesar De Oliveira  Gomes: 
+Paulo Godoy: 
+Paulo Henrique Grecco Badolato: 
+Paulo Rogerio Oliveira da Silva: 
+Paulo Sergio Silva de Oliveira: 
+Pedro Batista Lopes: 
+Pedro Gimenez Silva: 
+Pedro Tiago Silva Rodrigues: 
+Priscila Ferrelli  Moura: 
+Quirian Mizrael Cordova Correa: 
+Rafael Augusto Braga da Silva: 
+Rafael Augusto Nascimento: 
+Rafael Carvalho de Souza Melo: 
+Rafael Lach: 
+Rafael Rangel Andrade: 
+Rafael Ribeiro  Del Poggetto: 
+Rafael Xavier: 
+Rafaela Dantas: 
+Raphaela Galiza Da Silva: 
+Reginaldo Martins  Galhaci: 
+Reinaldo Lopes Lopes: 
+Renata Pallone de Oliveira: 
+Ricardo Shigeoka: 
+Roberta Assunção: 
+Roderick Anders Nieves  Guevarra: 
+RODRIGO DA SILVA: 
+Rodrigo Fakim  Da Silva: 
+Rodrigo Fernandes de Paula: 
+Rodrigo Leone Cardoso: 
+Rodrigo Xavier: 
+Rogerio Jun: 
+Rogério Vasconcelos: 
+'Ronaldo Rezende  dos Santos ': 
+Ronny Everson  de Jesus: 
+Rosana Dellangelica: 
+Rubens Martins Jr: 
+Sabrina Aryane Correa Gonçalves: 
+Sabrina Assis: 
+Santiago  Del Rey: 
+Sergio Augusto Fajardo  Mariano: 
+Sergio Belchior Eisenberg: 
+Silmara A R Yoshida Cardoso: 
+Suelen Costa  Dos Prazeres: 
+Tales Thiharu Tino: 
+Talis Vinicius Ramos de Souza: 
+Tamires Cristina Ribeiro Martins: 
+Thais Fernanda de Oliveira: 
+Thalita  Simi: 
+Thiago Carvalho Muller: 
+Thiago Coelho: 
+Thiago Michaeli: 
+Tiago Lopes Grilli: 
+Tiago Villas: 
+Valdeci Barbosa: 
+Vanessa  Pereto: 
+Vinicius  Manara Martins: 
+Vinicius Alberto da Silva: 
+Vinicius Paulino: 
+Wagner Soares de Rosa: 
+Wallace Silva Fernandes de Oliveira: 
+Wellington Da Silva Ramos: 
+Wellington Segura Delpino: 
+Yasmim Vieira Costa: 
+Yasmin Costa Santos: 
+Canal de escalação: 
+Grupo no Whatsapp: 
+Mensagem privada no Whatsapp: 
+Ligação telefônica: 
+E-mail: 
+Teams: 
+Triado como Down?: 
+Foi um down?: 
+Sim, parcial: 
+Sim, total: 
+Total ou parcial?: 
+Total: 
+Parcial: 
+Sistema Restaurado?: 
+"...": 
+RCA foi enviado?: 
+'Horário início do Down:': 
+'Horário início do UP:': 
+Encerramento: 
+Encerramento de Ticket: 
+Olos - Problema: 
+Olos - Checklist: 
+Cliente - Dúvida: 
+Cliente - Falta de Interação: 
+Cliente - Requisição: 
+Cliente - Problema: 
+Diagnóstico inconclusivo: 
+Novo Projeto/Comercial: 
+Em qual produto foi a solicitação: 
+Agendamento: 
+Agente Virtual/Ad Contact: 
+Árvore De Navegação: 
+Blocklist: 
+Campanha/Organização: 
+Chamada Manual: 
+Chamadas: 
+Congestionamento Interno: 
+Customização Em Geral: 
+Discador/Operação Humana: 
+Disco: 
+Dump/Relatório Customizado: 
+Dump/Relatório Padrão Olos: 
+Ecos: 
+Exportdata: 
+Filtros/Estratégia: 
+Foto Do Mailing: 
+Gravações: 
+Hardware/Servidor: 
+Journey X: 
+JX - Animonitor: 
+JX - Scoring: 
+Licenças: 
+Mailing/Importação/Layout/Particioanamento: 
+Metadados: 
+Nível De Serviço: 
+Ociosidade: 
+Ocupação de Canais: 
+Olos Monitor: 
+Olos Watcher: 
+Owi (Olos Web Interact): 
+Pausa: 
+Perfil: 
+Pilotagem: 
+Plano De Dias Especiais: 
+Plano De Restrição: 
+Plano De Tabulação/Tabulação: 
+Plano De Tarifação: 
+Preview: 
+Ressubmit: 
+Script: 
+Serviços: 
+Speech Analytics: 
+SPIN: 
+Telecom/Canais/LCR/Operadora: 
+Tons de aviso/ BIP: 
+Ura Receptiva: 
+Webservices: 
+WFO: 
+WhatsApp: 
+Qual foi o tipo de requisição?: 
+Novo projeto/Demanda: 
+Alteração de licenças: 
+Apoio em conferência: 
+Atividade na plataforma: 
+Configuração no FreshService ou Academy: 
+Configuração no Olos: 
+Configuração no Olos / Cliente não pode fazer sozinho: 
+Configuração no Olos / Precisa de treinamento: 
+Update de Áudio na Plataforma: 
+Não consta: 
+Olos - Problema em qual produto?: 
+Jx - Animonitor: 
+Jx - Scoring: 
+Tons de Aviso/BIP: 
+Qual módulo?: 
+"(AAS) - Advanced Agent Selector": 
+"(ALM) - AgentLoginModule": 
+"(AMD) - Automatic Message Distributor": 
+"(AMM) - Alert Monitoring Module": 
+"(AMS) - Answering Machine Service": 
+"(ASC) - Agent-Supervisor Chat": 
+"(ASD) - Agent Suspected Detection": 
+"(ASM) - Automatic Strategy Management": 
+"(BillingMP3) - BillingMP3": 
+"(CBL) - Black List Integration": 
+"(CCM) - CampaignControlModule": 
+"(CFR) - CCM Fast Recovery": 
+"(CPM) - Customer Portfolio Manager": 
+"(CPQD) - Integration TCP Server": 
+"(DAM) - Data Analyzer Module": 
+"(EAD) - Export Analytics Data": 
+"(EDI) - Cobrança e Preventivo": 
+"(ESC) - External Service Campaign Controller": 
+"(FTM) - FileTransferModule": 
+"(IEM) - ImportExportModule": 
+"(Insight) - Export Khomp Monitor": 
+"(IPB) - Import Pbx Billing": 
+"(IUM) - ImportUsersModule": 
+"(IVR) - Interactive Voice Responder": 
+"(JOB -SQL)": 
+"(JXA) - Journey X Agent": 
+"(KEE) - Khomp Events Extractor": 
+"(LCS) - LostCallScheduler": 
+"(MCX) - Module for Channel eXchange": 
+"(MDM) - Media Distribution Module": 
+"(MDS) - MonitorDataSource": 
+"(NPL) - Natural Language Processing Service": 
+"(OAA) - Olos Analytics Agent": 
+"(PBX) - Private Branch Exchange": 
+"(PDM) - Predictive Dialer Modulo": 
+"(PS) - Integration RabbitMQ Agentes": 
+"(RBM) - Recording Backup Module": 
+"(RC) - Records Converter": 
+"(RM) - Recorder Manager": 
+"(SMM) - System Monitor Module": 
+"(STP) - SMS Third Party Control Module": 
+"(TCM) - Tester Channels Module": 
+"(TEI) - Transcription Engine Interface": 
+"(TFI) - Integrations": 
+"(TIM) - Satmap Integration Service": 
+"(TRADH) - Record Integrations": 
+"(TTW) - TextToWave": 
+"(TTY) - TTY Service Provider": 
+"(VR) - FTP": 
+"(VS) - Voice Support": 
+"(WAY) - WayService": 
+"(WFO) Work Force Olos": 
+Acesso Remoto Indisponível: 
+AD: 
+Alarme espaço em disco: 
+BOT: 
+BotGateway: 
+Cliente - Infra: 
+Cliente - Storage: 
+Configurações de usuário: 
+Customização Script IVR: 
+Desativar usuário das plataformas Olos: 
+DUMP: 
+ECOS HMP: 
+ECOS LOGIN: 
+ExportData: 
+ExportDataV3: 
+Hardware: 
+Integração: 
+JX - AWS: 
+Khomp - API Server: 
+Khomp - Integrated Boot System: 
+Khomp - KIBS: 
+Khomp - Log Server: 
+Khomp - Media Server: 
+Khomp - Query Server: 
+Khomp - Watcher Service: 
+Khomp - Web Portal: 
+Licenças ADM: 
+Ligações falhando/Linha muda/VoiceMail: 
+Linux: 
+MAB: 
+MAS: 
+NMS: 
+NUA: 
+Redis: 
+Serviço: 
+Servidor Físico: 
+Servidor Virtual - (VM): 
+Softphone: 
+Storage: 
+Supervisor Monitor: 
+Support Place: 
+Ura: 
+VM: 
+VPL: 
+Way: 
+Web - BackupMonitor: 
+Web - Billing: 
+Web - Eaglle: 
+Web - ImportExport: 
+Web - MonitorWay: 
+Web - OlosMonitor: 
+Web - OlosWebAgent: 
+Web - RecordingRetrieve: 
+Web - Reports: 
+Web - SysConfiguration: 
+Web - SystemMonitor: 
+Web - WebMonitor: 
+Web - WsAgentControl: 
+Web - WsConfiguration: 
+Web - WsIntegration: 
+Web - WsLcm: 
+Web - WsMailingControl: 
+Web - WsMcx: 
+Web - WsNames: 
+Web - WsSoftphone: 
+Web - WsUtils: 
+Webservice: 
+Windows: 
+Zabbix: 
+Qual foi a ação para resolução? - Novo: 
+Ação - Novo: 
+Atualização: 
+Atualização de pacote: 
+Atualização de patch: 
+Rollback do serviço: 
+Atualização de serviço: 
+Configuração plataforma: 
+Acesso remoto: 
+Active Directory / Usuário: 
+Ampliação de Licenças: 
+Antivírus: 
+API SDK: 
+Armazenamento: 
+Redução de Licenças: 
+Autenticação: 
+Balanceamento de carga de gravações: 
+Configuração do circuito: 
+Configurações da porta do serviço: 
+Configurações da porta do windows: 
+Configuração de serviços: 
+Configurações de segurança: 
+Configurações do SIP VMWare: 
+Configurações NIC: 
+Firewall: 
+Java: 
+Roteador / Hub / Switch: 
+Roteadores Proxy SIP: 
+SSL: 
+Criação de usuários no Olos Support Place: 
+Configuração de usuários no Olos Support Place: 
+Exclusão de usuários no Olos Support Place: 
+Virtualização: 
+Alteração de núcleos: 
+Alteração de memória: 
+Alteração de discos: 
+Inclusão de licenças VMWare: 
+Restart da máquina virtual: 
+Inicialização da máquina virtual: 
+Customizações / Atividade OPS: 
+Alteração de DUMPs: 
+Correção de DUMPs: 
+Banco Espelho: 
+Correção/Ajustes no script IVR: 
+Correção do formato: 
+Correção na Integração: 
+Integração de gravações: 
+Integração indisponível: 
+Jobs com erros - correção: 
+Layout incorreto - correção: 
+Nova integração: 
+Novo DUMP: 
+Documentação: 
+BID: 
+Documentação FSD: 
+Informação ao cliente - sobre documentação: 
+Informação de Acesso Remoto - sobre documentação: 
+Informações da licença - sobre documentação: 
+Olos Docs: 
+Hardware / Infraestrutura: 
+Atualização de drivers - Khomp: 
+Restart do hardware - servidor: 
+Restart do hardware - Khomp: 
+Atualização de BIOS: 
+Especificações de Hardware: 
+Falha na porta socket - correção: 
+Falha na rede - correção: 
+Inicializar a placa de rede da máquina: 
+Instalaçao de cliente: 
+Nuvem: 
+Inicialização do hardware: 
+Clustering de hardware: 
+Sistema operacional: 
+JOB: 
+Alteração de JOB: 
+Criação de JOB: 
+Correção de JOB: 
+Exclusão de JOB: 
+Pausa de JOB: 
+Reprocessamento: 
+Reprocessamento de bilhetagem: 
+Reprocessamento de DUMPs: 
+Reprocessamento da PBXBillingData: 
+Olos - Banco de Dados: 
+Atualização de estatísticas: 
+Clustering - banco de dados: 
+CPU elevada: 
+I/O elevada: 
+Índice de tabela: 
+Lentidão em Querys: 
+Linked Server: 
+Purge de dados: 
+Relatórios históricos: 
+Replicação: 
+Shrink: 
+Waiting Tasks elevada: 
+Restart do serviço: 
+Configuração Olos: 
+Analise de silencio (ASD): 
+Alteração de áudio: 
+Inserção de áudio: 
+Configuração de campanha: 
+Configuração de fuso horário da campanha: 
+CPQD: 
+Aumento do HeartBeat: 
+Redução do HeartBeat: 
+Criação de plano de monitoração: 
+Correção de plano de monitoração: 
+Alteração de plano de monitoração: 
+Exclusão de plano de monitoração: 
+Criação de plano de tarifação: 
+Correção de plano de tarifação: 
+Alteração de plano de tarifação: 
+Criação de plano de restrição: 
+Correção de plano de restrição: 
+Alteração de plano de restrição: 
+Exclusão de plano de restrição: 
+Criação de plano de tabulação: 
+Correção de plano de tabulação: 
+Alteração de plano de tabulação: 
+Exclusão de plano de tabulação: 
+Criação de plano de pausas: 
+Correção de plano de pausas: 
+Alteração de plano de pausas: 
+Exclusão de plano de pausas: 
+Criação de usuário: 
+Exclusão de usuário: 
+Troca de perfil de usuário: 
+Reset de senha: 
+Configuração de usuário: 
+Criação de plano de estratégia: 
+Correção de plano de estratégia: 
+Alteração de plano de estratégia: 
+Exclusão de plano de estratégia: 
+Criação de filtros: 
+Correção de filtros: 
+Alteração de filtros: 
+Exclusão de filtros: 
+Configuração do módulo: 
+Instalação de Softphone: 
+Alteração de configuração do Softphone: 
+Update do Softphone: 
+Instalação da Toolset: 
+Alteração de configuração da Toolset: 
+Update da Toolset: 
+Olos - Gravações: 
+Busca de gravação em fita: 
+Crescimento de disco: 
+Alteração de apontamento de gravação: 
+Configuração do RBM: 
+Olos - Mailings: 
+Agendamento de importação: 
+Adicionar uma blacklist: 
+Excluir uma blacklist: 
+Alterar uma blacklist: 
+Alimentar uma blacklist: 
+Adicionar campos do mailing: 
+Excluir campos do mailing: 
+Realização de fastbuild: 
+Alterar campos do mailing: 
+Olos - Relatórios: 
+Criação de relatório: 
+Correção de relatório: 
+Exclusão de relatório: 
+Criação de template: 
+Correção de template: 
+Alteração de template: 
+Exclusão de template: 
+Olos - Telecom: 
+Codec SIP: 
+Configurações SIP NIC: 
+Detalhes sobre classificações: 
+Gravação de sinalização: 
+LCR: 
+Links Down: 
+Operadora de telefonia: 
+Origem de desconexão de chamada: 
+Qualidade de áudio: 
+Queda de ligação: 
+Rotas - configurações de rota: 
+Sinalização do Link: 
+System check proativo: 
+Compactação e expurgo de informações: 
+Configuração do sistema de compactação e expurgo de informações: 
+Configuração do sistema de monitoria - Zabbix: 
+Checklist do sistema: 
+Criação de unidade emergencial para gravações: 
+Interações anormais no caso: 
+Encerramento por falta de interação: 
+Duplicado: 
+Inconclusivo: 
+Ferramenta funciona dessa forma (problema de conceito): 
+Em qual produto foi o problema?: 
+Telecom/Canais/Lcr/Operadora: 
+Onde era o problema?: 
+Falta de conhecimento sobre Olos/ferramenta: 
+Configuração errada do lado do cliente: 
+Rede/conexão/Infea/TI do Cliente: 
+Telecom do cliente (Rota, operadora e etc): 
+Localização/conexão de mailing: 
+Normalizado sem intervenção Olos: 
+Você recomendaria treinamento para cliente?: 
+Sim, precisa de treinamento: 
+Não, dúvida pontual: 
+'Dúvidas pontuais do cliente:': 
+Ação para dúvidas pontuais do cliente: 
+Ação detalhada: 
+Conceito: 
+Form. Encerramento: 
+Cliente - Problema - Break-fix: 
+Interno - Manutenção: 
+Interno - Proativo: 
+Interno -  Requisição: 
+Descreva (obrigatório para opção "Não consta"): 
+Na sua opinião, você acha que essa dúvida poderia ser sanada com qual dessas iniciativas?: 
+TREINAMENTO PARA CLIENTE: 
+MELHORIA DA PLATAFORMA: 
+ALINHAMENTO PRÉVIO COM CLIENTE: 
+OUTROS: 
+Quais os serviços e campanhas afetados?: 
+Algum alerta relacionado S.O. ou rede?: 
+Logs e locais de acesso coletados: 
+Qual resultado da análise/investigação?: 
+Quando foi identificado: 
+Campos Exclusivos: 
+ONOC: 
+Qual o tipo de ambiente?: 
+Cloud: 
+On Primeses: 
+Preventivo ONOC: 
+Alerts?: 
+Origem Alerta: 
+Severity: 
+Disaster: 
+High: 
+Resolução: 
+Definitivo: 
+Paliativo: 
+Resource: 
+Campos Ocultos: 
+Automação: 
+Status - OFN: 
+Aberto: 
+Aguardando Comercial: 
+Aguardando Pedido: 
+Cancelado: 
+Em atendimento: 
+Faturado: 
+Pendente: 
+Postergado: 
+Perdido: 
+Status - Ativos: 
+Aprovado: 
+Rejeitado: 
+Hot Situation: 
+Motivo do Hot Situation: 
+Solicitação HE?: 
+Status Atualizado de Clientes: 
+Tipo de Ticket: 
+INC - Preventivo ONOC: 
+INC - Ticket Filho: 
+INC - Ticket Pai: 
+'SR ': 
+SR - CST: 
+SR?: 
+É item de Solicitação HE?: 
+É item de Solicitação HE: 
+É um incidente?: 
+Campos Arquivados: 
+Exclusivo - Licenças: 
+Exclusivo - OGRC: 
+Formulário - Customer Success: 
+OGP/OBP&lt;: 
+Formulário - HE: 
+Caso Aberto: 
+Aberto em N1: 
+Aberto em N2: 
+Aberto em N3: 
+Aberto em ODS - Melhorias: 
+Aberto em ODS - Segurança: 
+Aberto em ODBA: 
+Aberto em OBI: 
+Aberto em OTI: 
+Aberto em OTS: 
+Aguardando atualização plataforma: 
+Aguardando comercial: 
+Aguardando retorno internamente: 
+Aguardando sua aprovação: 
+Aguardando aprovação: 
+Caso tratado internamente: 
+Comercial - Aguardando Aprovação Cliente: 
+CST - Abertura Wrike: 
+CST - Aguardando Aprovação Comercial: 
+CST – Aguardando Inform. Faltando: 
+'CST - Aguardando Retorno Internamente ': 
+CST - Aprovação da Solução: 
+CST - Classificação: 
+CST - Escopo Projeto: 
+CST - Estimativa: 
+CST - Oportunidade: 
+CST - Proposta Comercial: 
+Em atendimento – ambiente em monitoração: 
+Em atendimento – envio de recurso in loco: 
+Em atendimento – atividade agendada: 
+Escalado internamente: 
+Escalado para ODS: 
+Escalado para ODA: 
+Escalado para OFD: 
+Escalado para OPS: 
+Escalado para OTI: 
+Escalado para terceiros (parceiros): 
+Aguardando sua resposta: 
+Pendente analista: 
+Pendente - Uso Customer Success: 
+Fechado: 
+Recusado: 
+Resolvido: 
+Resolvido – análise de causa raiz: 
+Abertura de chamados - Preciso resetar a minha senha de acesso: 
+Abertura de chamados - Quero alterar perfil de usuário para abrir chamados: 
+Abertura de chamados - Quero criar um usuário para abrir chamados: 
+Campanhas - A maioria ou nenhuma campanha está discando: 
+Campanhas - Apenas uma pequena parte das campanhas não discam: 
+Campanhas - Está discando em horários errados: 
+Campanhas - Estou com alto índice de "no disposition": 
+Campanhas - Estou com ociosidade em todas as campanhas: 
+Campanhas - Estou com ociosidade em uma campanha: 
+Campanhas - Já tenho Spin e preciso fazer configuração: 
+Campanhas - Não estou conseguindo criar ou alterar uma campanha: 
+Campanhas - O plano de restrição não está respeitando a configuração: 
+Campanhas - O Spin não está respeitando a configuração: 
+Campanhas - Preciso criar uma nova campanha de WAY: 
+Campanhas - Preciso de ajuda no controle de "hang up": 
+Campanhas - Preciso fazer um plano de restrição: 
+Campanhas - Preciso inserir ou alterar horário de atendimento em uma campanha: 
+Campanhas - Tenho dúvidas sobre configuração de campanha: 
+Campanhas - Tenho dúvidas sobre plano de restrição: 
+Campanhas - Tenho dúvidas sobre Spin: 
+Chatbot - Clientes não recebem as mensagens do chat: 
+Checklist: 
+DUMP e Relatório - Estou com dúvidas nos relatórios / DUMPs: 
+DUMP e Relatório - Não estamos conseguindo acessar relatórios ou dumps - DUMP e Relatório: 
+DUMP e Relatório - Não estou conseguindo extrair / Relatório não está sendo gerado: 
+DUMP e Relatório - Preciso de um DUMP novo: 
+DUMP e Relatório - Preciso fazer alterações em um DUMP existente: 
+DUMP e Relatório - Relatório / DUMP com divergência: 
+DUMP e Relatório - Relatório com todos ou alguns campos vindo vazios: 
+'Eaglle - Eaglle está travando (Exemplo: 1890)': 
+Eaglle - Eaglle não loga: 
+Eaglle - Estou com erro no formulário do Eaglle: 
+Eaglle - Estou com problema no robô do Eaglle: 
+Fastflow - Estou com erro na vocalização do fastflow: 
+Fastflow - Estou com erro para alterar o fluxo do fastlow: 
+Fastflow - Preciso redimensionar licenças do fastflow: 
+Fastflow - Quero alterar o fluxo do fastflow: 
+Fastflow - Quero criar um usuário no fastflow: 
+Fluxo e vocalizações - Criação de URA ou alteração de fluxo: 
+Fluxo e vocalizações - Lentidão na vocalização: 
+Fluxo e vocalizações - Quero fazer uma inserção de áudio: 
+Fluxo e vocalizações - Vocalização errada ou fluxo errado: 
+Gravações - Dados não aparecem na tela/pagina de gravação (Dados de tabulação, agentes etc): 
+Gravações - Não estou conseguindo achar algumas gravações: 
+'Gravações - Não estou conseguindo achar as gravações (erro: nenhum dado encontrado)': 
+Gravações - Não estou conseguindo baixar/fazer download das gravações: 
+Gravações - Preciso recuperar uma gravação específica: 
+Gravações - Quero alterar o local de armazenamento das gravações: 
+Licenças - Licenças da Khomp expirando: 
+Licenças - Licenças do Windows expirando: 
+Licenças - Não estou conseguindo dimensionar / remanejar licenças: 
+Licenças - Preciso contratar mais licenças: 
+Licenças - Preciso fazer redução de Licenças: 
+Lista de bloqueio - A lista bloqueio não está sendo respeitada: 
+Lista de bloqueio - Estou com problemas de importação/exportação da lista de bloqueio: 
+Lista de bloqueio - Não estou conseguindo excluir contatos da lista de bloqueio: 
+Lista de bloqueio - Tenho dúvidas sobre a lista de bloqueio: 
+Mailing - Estou com erro no agendamento de importação: 
+Mailing - Estou com lentidão na importação: 
+Mailing - Não estou conseguindo importar o mailing ou dá erro na importação: 
+Mailing - Não estou localizando o mailing / o mailing sumiu: 
+Mailing - Quero alterar o layout de mailing (inserir, retirar campo, etc): 
+Olos monitor e Monitorias - Estou com problema de acesso ao Olos Monitor: 
+Olos monitor e Monitorias - Estou com problemas com o Painel Way: 
+Olos monitor e Monitorias - Olos Monitor apresenta divergências de informação: 
+Olos monitor e Monitorias - Olos Monitor não carrega (fica em branco): 
+Olos monitor e Monitorias - Olos Monitor não está atualizando: 
+Olos monitor e Monitorias - Os filtros no Olos Monitor não estão aparecendo: 
+Olos monitor e Monitorias - Quero tirar dúvidas sobre o Olos Monitor: 
+Organização - A maioria ou nenhuma organização está discando: 
+Organização - Apenas uma pequena parte das organizações não discam: 
+Organização - Estou com ociosidade em uma organização: 
+Organização - Não estou conseguindo associar áudios a uma organização: 
+Organização - Quero criar, alterar ou excluir uma organização: 
+Organização - Tenho dúvidas sobre configuração de uma organização: 
+Receptivo - Chamadas não estão entrando no receptivo: 
+Receptivo - Chamadas não estão entrando no receptivo WAY: 
+Receptivo - Estratégia não está respeitando a configuração: 
+Receptivo - Fila de espera não está tocando: 
+Receptivo - Preciso de ajuda para criar estratégia: 
+Receptivo - Preciso inserir ou alterar uma fila de espera: 
+Reconhecimento de voz - Estou com dúvidas sobre o reconhecimento de voz: 
+Reconhecimento de voz - Estou com falha no reconhecimento: 
+Reprocessamento - ExportData: 
+Reprocessamento - Reprocessamento de Call Data: 
+Reprocessamento - Reprocessamento de CDR: 
+Reprocessamento - Reprocessamento de DUMP: 
+Requisição interna - Survey de atualização: 
+Requisição interna - Handover de plataforma: 
+Requisição interna - Implantação Zabbix: 
+Requisição interna - Liberação Zabbix: 
+Servidores - Estou com alarme de serviço: 
+Em qual serviço?: 
+Olos (AAS) - Advanced Agent Selector: 
+Olos (ALM) - AgentLoginModule: 
+Olos (AMD) - Automatic Message Distributor: 
+Olos (AMM) - Alert Monitoring Module: 
+Olos (AMS) - Answering Machine Service: 
+Olos (ASC) - Agent-Supervisor Chat: 
+Olos (ASD) - Agent Suspected Detection: 
+Olos (ASM) - Automatic Strategy Management: 
+Olos (BillingMP3) - BillingMP3: 
+Olos (CCM) - CampaignControlModule: 
+Olos (CFR) - CCM Fast Recovery: 
+Olos (CPqD) - Integration TCP Server: 
+Olos (DAM) - Data Analyzer Module: 
+Olos (ESC) - External Service Campaign Controller: 
+Olos (EDI) - Cobrança e Preventivo: 
+Olos (FTM) - FileTransferModule: 
+Olos (IEM) - ImportExportModule: 
+Olos (Insight) - Export Khomp Monitor: 
+Olos (IPB) - Import Pbx Billing: 
+Olos (IVR) - Interactive Voice Responder: 
+Olos (KEE) - Khomp Events Extractor: 
+Olos (LCS) - LostCallScheduler: 
+Olos (MCX) - Module for Channel eXchange: 
+Olos (MDM) - Media Distribution Module: 
+Olos (MDS) - MonitorDataSource: 
+Olos (NPL) - Natural Language Processing Service: 
+Olos (PBX) - Private Branch Exchange: 
+Olos (PDM) - Predictive Dialer Modulo: 
+Olos (PS) - Integration RabbitMQ Agentes: 
+Olos (RBM) - Recording Backup Module: 
+Olos (RC) - Records Converter: 
+Olos (RM) - Recorder Manager: 
+Olos (SMM) - System Monitor Module: 
+Olos (STP) - SMS Third Party Control Module: 
+Olos (TCM) - Tester Channels Module: 
+Olos (TEI) - Transcription Engine Interface: 
+Olos (TTW) - TextToWave: 
+Olos (TTY) - TTY Service Provider: 
+Olos (VS) - Voice Support: 
+Olos (WAY) - WayService: 
+Olos – AD: 
+Olos - BOT: 
+Olos - Customização Script IVR: 
+Olos – FreeSwitch: 
+Olos - MAB: 
+Olos - MAS: 
+Olos - NMS: 
+Olos - NUA: 
+Olos – Outros: 
+Olos - Softphone: 
+Olos - Toolset: 
+Olos - VPL: 
+Olos - Way: 
+Olos - (TRADH) - Record Integrations: 
+Olos - Servidor Virtual - (VM): 
+Olos - (JOB -SQL): 
+Olos - Storage: 
+Olos - (WFO) Work Force Olos: 
+Olos (TFI) - Integrations: 
+Olos (VR) - FTP: 
+Olos (CBL) - Black List Integration: 
+Olos - Zabbix: 
+Olos (CPM) - Customer Portfolio Manager: 
+Olos (IUM) - ImportUsersModule: 
+Olos (TIM) - Satmap Integration Service: 
+Olos - Integração: 
+Olos - Servidor Físico: 
+Olos - ExportData: 
+Olos - ExportDataV3: 
+Olos - Supervisor Monitor: 
+Olos - Acesso Remoto Indisponível: 
+Olos - Hardware: 
+Servidor - Estou com alarme sonoro no servidor físico: 
+Servidor - Estou com alarme de espaço em disco: 
+Servidor - Estou com alarme de memória: 
+Servidor - Estou com alarme de CPU: 
+Servidor - Preciso realizar uma atualização no servidor: 
+Servidor - Preciso que o servidor seja desligado: 
+Servidor - Tive queda de energia no servidor: 
+Servidor - Outros: 
+Softphone - Dá aviso de erro e fecha: 
+Softphone - Está fechando inesperadamente sem aviso: 
+Softphone - Estou com erro ao abrir o Softphone: 
+Softphone - Não abre: 
+Softphone - Não aceita o passcode: 
+Softphone - Preciso de ajuda na instalação do Softphone: 
+Tabulações - Estou problema ao criar tabulações ou plano de tabulação: 
+Tabulações - Preciso alterar plano de tabulação: 
+Tabulações - Quero tirar dúvidas sobre tabulações: 
+Tabulações - Tabulações estão divergentes: 
+Telecom / Canais - Estamos com alto índice de anunciadora: 
+Telecom / Canais - Estamos com congestionamento interno: 
+Telecom / Canais - Estamos com falha de operadora: 
+Telecom / Canais - Estou com alto índice de "impossível completar": 
+Telecom / Canais - Estou com ligações caindo (desconexão): 
+Telecom / Canais - Estou com ligações cruzadas: 
+Telecom / Canais - Estou com ligações mudas: 
+Telecom / Canais - Estou com ligações picotando ou robotizadas: 
+Telecom / Canais - Ligações estão voltando para agente: 
+Toolset Olos - Preciso de ajuda na instalação da Toolset: 
+Toolset Olos - Toolset abre mas não carrega: 
+Toolset Olos - Toolset apresenta erro quando abre: 
+Toolset Olos - Toolset apresenta informações divergentes: 
+Toolset Olos - Toolset fecha inesperadamente durante o atendimento: 
+Toolset Olos - Toolset não abre: 
+Usuários Olos - Alguns agentes (ou apenas 1) não estão conseguindo logar: 
+Usuários Olos - Alguns agentes estão logando e sendo deslogados: 
+Usuários Olos - Esqueci minha senha de acesso ao Olos: 
+Usuários Olos - Estou com problema de permissão em alguns pontos no Olos: 
+Usuários Olos - Não está gerando passcode: 
+Usuários Olos - Nenhum agente está conseguindo logar: 
+Usuários Olos - Preciso alterar a permissão de usuários: 
+Usuários Olos - Preciso criar ou alterar usuários no Olos: 
+Usuários Olos - Todos agentes estão logando mas sendo deslogados: 
+Requisições de serviço: 
+Requisições: 
+UI: 
+Minor: 
+Standard: 
+Major: 
+Emergency: 
+Retrospective: 
+Significant: 
+Pre-approved: 
+Normal: 
